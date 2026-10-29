@@ -1,0 +1,22 @@
+
+# Next.js generated files
+expense-tracker-web/.next/
+expense-tracker-web/node_modules/
+expense-tracker-web/out/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS files
+.DS_Store
+
+# Compiled executables
+expense_tracker
+ExpenseTracker
+ExpenseAPI
+expense-api
+
+# Personal expense data
+expenses.txt
